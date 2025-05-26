@@ -1,0 +1,33 @@
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/variables';
+@import 'bootstrap/scss/mixins';
+@font-face {
+    font-family: 'icomoon';
+    src: url('/fonts/icomoon.woff') format('woff'),
+        url('/fonts/icomoon.ttf') format('ttf'),
+        url('/fonts/icomoon.eot') format('eot'),
+        url('/fonts/icomoon.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'feather';
+    src: url('/fonts/feather.woff') format('woff'),
+        url('/fonts/feather.ttf') format('ttf'),
+        url('/fonts/feather.eot') format('eot'),
+        url('/fonts/feather.svg#feather') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$primary: #ff4c4c;
+$secondary: #52565e;
+$font-family-sans-serif: 'Playfair Display', sans-serif;
+$font-family-sans-serif-secondary: 'Roboto', sans-serif;
+
+$primary: #ff4c4c;
+$secondary: #52565e;
+$font-family-sans-serif: 'Playfair Display', sans-serif;
+$font-family-sans-serif-secondary: 'Roboto', sans-serif;
+
+
